@@ -1,0 +1,18 @@
+/* Задаємо стиль для жовтого блоку */
+.yellow-block {
+    background-color: rgb(0, 111, 37);
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+/* Стиль для посилань */
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: darkblue;
+}
