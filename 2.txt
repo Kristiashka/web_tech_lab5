@@ -1,0 +1,3 @@
+{
+    "students": ["Rublenko", "Suslo", "Protskova", "Zavadska", "Dunai"]
+}
